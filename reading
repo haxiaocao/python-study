@@ -1,0 +1,8 @@
+A program slice 
+We will also investigate program slicing [Tip] and program paths [Ball] as techniques to help users understand where to make changes and what impact those changes will have.
+A third area of work is one automatic generation of scripting language interfaces to low-level code such as C, C++, or Java.
+Our approach in this area will be to work with experimental and prototype systems in order to understand how end user programmability should be exposed.
+Applications must be modular and provide sufficient high level abstractions so that their constituent parts can be understood quickly and independently. This lets people concentrate primarily on the parts that need to be changed.
+
+-reference：  Compter programming for Everybody  https://www.python.org/doc/essays/cp4e/
+
